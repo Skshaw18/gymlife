@@ -14,6 +14,10 @@ Step 5: git commit -m "text"	//to commit changes
 
 Step 6: git push origin master	//to push the changes
 
+git pull origin master //to get latest in local
+
+branch name format: Skshaw18-patch-**
+
 Software needed:
 
  XAMPP
